@@ -24,18 +24,18 @@ do
 rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
-figlet TBomb
+figlet sniper TBomb
 echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border SpeedX
-echo -e "\e[4;34m This Bomber Was Created By SpeedX \e[0m"
+echo -e "\e[4;34m This Bomber Was Created By Sniper LB \e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
-echo -e "\e[1;32m           Mail: ggspeedx29@gmail.com \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/GyanaTech \e[0m"
+echo -e "\e[1;32m           Mail: yousnip1@gmail.com \e[0m"
+echo -e "\e[4;32m   
 echo " "
 echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
 echo " "
-echo "Press 1 To  Start SMS Bomber "
-echo "Press 2 To  Start Call Bomber "
+echo "Press 1 To  Start SMS Sniper Bomber "
+echo "Press 2 To  Start Call Sniper Bomber "
 echo "Press 3 To  Update (Works On Linux And Linux Emulators) "
 echo "Press 4 To  View Features "
 echo "Press 5 To  Exit "
