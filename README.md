@@ -1,4 +1,4 @@
-<h1 align="center">TBomb v1.7b</h1>
+<h1 align="center">sniper lb TBomb v1.7b</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
 
 ## Note:
@@ -18,7 +18,7 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 
 - Do not use this to harm others.
 - This script is only for educational purposes or to prank.
-- **None of the developers/contributors are responsible for the misuse of TBomb.**
+- **None of the developers/contributors are responsible for the misuse of sniper lb TBomb.**
 <br>
 
 ## Features:
@@ -118,7 +118,7 @@ sudo bash TBomb.sh
 [-] Ping At: https://t.me/RieltarReborn
 
 - **0n1cOn3 (Stefan)**<br>
-[-] Mail At: 0n1cOn3@gmx.ch
+[-] Mail At: 
 
 ## Donators:
 
@@ -131,8 +131,4 @@ sudo bash TBomb.sh
 Feel Free To Open An Issue...
 
 ```
-                 Mail: ggspeedx29@gmail.com<br>
-       YouTube Channel: https://www.youtube.com/c/GyanaTech
-```
-
-<a href="https://www.youtube.com/c/GyanaTech">Check Out My YouTube Channel</a>
+           
